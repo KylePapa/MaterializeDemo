@@ -6,22 +6,23 @@
 
 #one {
     background-color: red;
-    padding-bottom: 800px;
+    padding-bottom: auto;
 }
 
 #two {
     background-color: blue;
-    padding-bottom: 800px;
+    padding-bottom: auto;
+
 }
 
 #three {
     background-color: green;
-    padding-bottom: 800px;
+    padding-bottom: auto;
 }
 
 #four {
     background-color: yellow;
-    padding-bottom: 800px;
+    padding-bottom: auto;
 }
 
 .mb0 {
