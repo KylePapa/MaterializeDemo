@@ -1,0 +1,33 @@
+.ktext {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+#one {
+    background-color: red;
+    padding-bottom: 800px;
+}
+
+#two {
+    background-color: blue;
+    padding-bottom: 800px;
+}
+
+#three {
+    background-color: green;
+    padding-bottom: 800px;
+}
+
+#four {
+    background-color: yellow;
+    padding-bottom: 800px;
+}
+
+.mb0 {
+    margin-bottom: 0px;
+}
+
+body {
+    background-color: black;
+}
